@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <string-array name="type_array">
+        <item>Educational</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Games</item>
+    </string-array>
+    <string-array name="mode_array">
+        <item>Per click</item>
+        <item>Per View</item>
+    </string-array>
+
+</resources>
